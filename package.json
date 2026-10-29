@@ -1,0 +1,13 @@
+{
+  "name": "biome-issue-12733",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "biome lint a.test.ts"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.6.3",
+    "vitest": "4.0.0"
+  }
+}
